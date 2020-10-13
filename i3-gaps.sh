@@ -26,4 +26,4 @@ sudo make install
 
 sudo apt install -y dmenu 
 
-sudo apt install -y i3pystatus i3blocks i3lock-fancy
+sudo apt install -y i3status i3pystatus i3blocks i3lock-fancy
